@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ModInfo>
+	<name>InfiniPin</name>
+	<description>Extend the range at which pins are displayed on the minimap based on the number of objectives (default: 3). You can change the number of required objectives in the infinipin.json file in the mod folder
+	</description>
+</ModInfo>
